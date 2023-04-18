@@ -7,6 +7,6 @@ Rules :
 Launch the Server first and display its PID, then the Client has two arguments the first one is the pid of the Server and the second one the message to send. 
 
 Instructions for use  :
--make
--./server
--(on another terminal) ./client "PID SERVER" "THE MESSAGE"
+- make
+- ./server
+- (on another terminal) ./client "PID SERVER" "THE MESSAGE"
